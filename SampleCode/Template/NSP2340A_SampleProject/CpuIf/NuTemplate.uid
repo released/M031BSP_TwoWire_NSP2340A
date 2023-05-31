@@ -1,0 +1,10 @@
+[AUDIO]
+defaud 1 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud 2 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud 3 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud 4 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud 5 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud ResC3E6521B1647BAA9 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud Res28401FDD29072DD8 <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud alone_10sec <ext=0, format=NUO, bitrate=1.0, resample=16000>
+defaud sad_10sec <ext=0, format=NUO, bitrate=1.0, resample=16000>

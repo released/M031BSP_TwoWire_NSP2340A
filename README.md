@@ -3,7 +3,7 @@
 
 update @ 2023/05/31
 
-1. USE GPIO for two wire , SCL : PC0 , SDA : PC1 to drive NSP2340A 
+1. USE GPIO for two wire , SCL : PC1 , SDA : PC0 to drive NSP2340A 
 
 2. below is function scenario
 
@@ -19,7 +19,7 @@ update @ 2023/05/31
 
 4. Below file copy from Nuvoton NSP PlayList Editor folder
 
-	nsp_driver.c , use PC1 as BP01(DATA) , PC0 as BP00(CLK)
+	nsp_driver.c , use PC0 as BP01(DATA) , PC1 as BP00(CLK)
 	
 	nsp_driver.h  ,
 	

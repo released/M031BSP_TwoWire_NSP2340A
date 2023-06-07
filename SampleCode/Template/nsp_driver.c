@@ -8,14 +8,14 @@
 #define NSP_TIMER		(TIMER0)
 
 #define SCLK_PORT		(PC)
-#define SCLK_PIN_MASK	(BIT0)
-#define SCLK_SET_LOW	(PC0=0)
-#define SCLK_SET_HIGH	(PC0=1)
+#define SCLK_PIN_MASK	(BIT1)
+#define SCLK_SET_LOW	(PC1=0)
+#define SCLK_SET_HIGH	(PC1=1)
 
 #define SDA_PORT		(PC)
-#define SDA_PIN_MASK	(BIT1)
-#define SDA_SET_LOW		(PC1=0)
-#define SDA_SET_HIGH	(PC1=1)
+#define SDA_PIN_MASK	(BIT0)
+#define SDA_SET_LOW		(PC0=0)
+#define SDA_SET_HIGH	(PC0=1)
 
 
 /*#define SCLK_PORT		BP0R
